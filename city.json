@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1214488,
+    "name": "Meulaboh",
+    "country": "ID",
+    "coord": {
+      "lon": 96.128502,
+      "lat": 4.1363
+    }
+  },
+  {
+    "id": 1214658,
+    "name": "Lhokseumawe",
+    "country": "ID",
+    "coord": {
+      "lon": 97.150703,
+      "lat": 5.1801
+    }
+  },
+  {
+    "id": 1215638,
+    "name": "Provinsi Nanggroe Aceh Darussalam",
+    "country": "ID",
+    "coord": {
+      "lon": 97,
+      "lat": 4
+    }
+  },
+  {
+    "id": 1215501,
+    "name": "Banda Aceh",
+    "country": "ID",
+    "coord": {
+      "lon": 95.343002,
+      "lat": 5.542
+    }
+  },
+  {
+    "id": 1215502,
+    "name": "Banda Aceh",
+    "country": "ID",
+    "coord": {
+      "lon": 95.322197,
+      "lat": 5.5577
+    }
+  },
+  {
+    "id": 1213523,
+    "name": "Tapaktuan",
+    "country": "ID",
+    "coord": {
+      "lon": 97.18,
+      "lat": 3.2582
+    }
+  },
+    {
+    "id": 1215350,
+    "name": "Bireun",
+    "country": "ID",
+    "coord": {
+      "lon": 96.700897,
+      "lat": 5.203
+    }
+  },
+  {
+    "id": 6700995,
+    "name": "Bungcala",
+    "country": "ID",
+    "coord": {
+      "lon": 95.4151,
+      "lat": 5.5248
+    }
+  },
+  {
+    "id": 6704108,
+    "name": "Pinto Makmur",
+    "country": "ID",
+    "coord": {
+      "lon": 96.947601,
+      "lat": 5.2288
+    }
+  },
+  {
+    "id": 6705237,
+    "name": "Simpangpeueul",
+    "country": "ID",
+    "coord": {
+      "lon": 96.228996,
+      "lat": 4.2562
+    }
+  },
+  {
+    "id": 1213721,
+    "name": "Sinabang",
+    "country": "ID",
+    "coord": {
+      "lon": 96.380096,
+      "lat": 2.4803
+    }
+  },
+  {
+    "id": 1214724,
+    "name": "Langsa",
+    "country": "ID",
+    "coord": {
+      "lon": 97.9683,
+      "lat": 4.4683
+    }
+  },
+  {
+    "id": 1214026,
+    "name": "Sabang",
+    "country": "ID",
+    "coord": {
+      "lon": 95.321388,
+      "lat": 5.89333
+    }
+  },
+  {
+    "id": 1214055,
+    "name": "Reuleuet",
+    "country": "ID",
+    "coord": {
+      "lon": 96.283333,
+      "lat": 5.21667
+    }
+  }
+]
